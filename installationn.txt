@@ -1,0 +1,32 @@
+
+
+\\IN-BLR-CMDP01
+
+
+node -v
+npm install bootstrap
+npm install jquery
+npm install -g typescript
+tsc -v
+
+SYSTEM PATH:
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="bootstrap-3.3.1-dist\dist\css\bootstrap.min.css">
+<script src="bootstrap-3.3.1-dist\dist\js\bootstrap.min.js"></script>
+
+W3SCHOOL PATH:
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+
+
+BOOTSTRAP PATH
+<link rel="stylesheet" href="bootstrap-3.3.7\dist\css\bootstrap.min.css">
+
+
+

@@ -1,0 +1,62 @@
+npm install -g @angular/cli 
+OR
+npm install -g @angular/cli@latest
+
+
+npm -g uninstall @angular/cli 
+
+for version :
+npm -g i @angular/cli@1.5
+
+ng -v
+
+creating project:
+ng new ProjectnameApp
+
+open the folder from visual studio
+
+jasmine creating test cases
+karma evaluating test cases
+
+ng g(generate)c(component) Todo(Component name)
+
+In app.module.ts ---->  run -->  ng g c sample to add new component
+app.componrnt.html is root component
+
+(ng serve) to run
+type localhost:4200
+
+
+for termination
+press and hold ctrl+c
+
+to change port
+ng serve --port 1234  
+*****************************************************************
+index.html
+
+<app-root> is selector name
+
+for creating class
+ng g class Todo(classname)
+
+for creating constructor:
+  constructor(values:Object={})
+    {
+        Object.assign(this,values);
+    }
+******************************************************************
+SERVICE
+ng g service Employee(service name)
+***************************************************
+
+http method
+http 200,201,404,500
+
+npm install -g json-server                   
+web service
+websevices nd types
+
+resful web serviced
+ how to  do in java
+
